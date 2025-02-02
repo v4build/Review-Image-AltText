@@ -2,7 +2,7 @@
 Content about Chrome web extensions.
 
 ## Privacy Policy - Review Image Alt Text
-This Privacy Policy describes how the “[Review Image Alt Text](https://chromewebstore.google.com/detail/review-image-alt-text/lgbpecaalejnpibeemnpellkiofhgpak)” Chrome extension collects, uses, and protects your information. We are committed to protecting your privacy and ensuring transparency in our data practices.
+This Privacy Policy describes how the “<a href="https://chromewebstore.google.com/detail/review-image-alt-text/lgbpecaalejnpibeemnpellkiofhgpak" target="_blank">Review Image Alt Text</a>” Chrome extension collects, uses, and protects your information. We are committed to protecting your privacy and ensuring transparency in our data practices.
 
 ### Information Collection and Use
 We do not collect any personal data from you. This Extension operates entirely locally within your Chrome browser. It does not transmit any information to external servers or services. The Extension only processes the HTML content of the currently active tab within your browser to identify and display image alt text. This processing happens in real-time and entirely within your browser. No data is stored or transmitted. Specifically, we do not collect:
