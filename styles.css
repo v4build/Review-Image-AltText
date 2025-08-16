@@ -1,0 +1,49 @@
+/**
+ * @file styles.css
+ * @description These styles are for the alt text overlays that are
+ * injected directly onto the webpage by the content script.
+ */
+.alt-text-viewer-overlay {
+    position: absolute;
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.9);
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 16px;
+    padding: 8px 12px;
+    border-radius: 6px;
+    z-index: 2147483647; /* Use max z-index to appear on top of everything */
+    line-height: 1.4;
+    max-width: 300px;
+    text-align: left;
+    pointer-events: all; /* Allow clicks on the overlay (e.g., the close button) */
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+}
+
+.alt-text-viewer-overlay a {
+    color: #87CEFA; /* Light Sky Blue for better visibility */
+    text-decoration: underline;
+}
+
+.alt-text-viewer-overlay-content {
+    flex-grow: 1;
+}
+
+.alt-text-viewer-close-btn {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+
+.alt-text-viewer-close-btn:hover {
+    opacity: 1;
+}
