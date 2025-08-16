@@ -1,4 +1,20 @@
-# Privacy Policy - Review Alt Text
+# Review Alt Text
+This tool is designed to help web developers, content creators, and accessibility testers quickly see the alternative text (alt text) for images on a webpage.
+
+## What It Does
+The primary goal of this extension is to make invisible alt text visible. When activated, it scans the current webpage and displays an overlay on top of every image and iFrame, showing the following information:
+
+- For Images with Alt Text: It displays the exact alt text provided (e.g., Alt: "A majestic lion resting in the savanna."). This helps you verify that the description is accurate and helpful.
+
+- For Images with an Empty Alt Attribute (alt=""): It displays the message: "Alt attribute is empty. Is the image decorative?". An empty alt attribute is used to tell screen readers to ignore an image, which is appropriate for purely decorative images. This message serves as a reminder to confirm the image's purpose.
+
+- For Images Missing an Alt Attribute: It displays "Missing alt text". This is an accessibility issue, as it provides no information to users of assistive technology.
+
+- For iFrames: Because the content of an iFrame is a separate document, the extension cannot scan it directly for security reasons. Instead, it displays a link: "Open iFrame in new tab to view alt text of images". Clicking this will open the iFrame's content in a new tab, where you can then activate the extension again.
+
+Each overlay has a small '×' button that allows you to close it individually.
+
+## Privacy Policy - Review Alt Text
 
 Last updated: 16th Aug, 2025 (minor edits)
 
