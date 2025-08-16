@@ -1,7 +1,7 @@
-# ChromeDev
-Content about Chrome web extensions.
+# Privacy Policy - Review Alt Text
 
-## Privacy Policy - Review Image Alt Text
+Last updated: 16th Aug, 2025 (minor edits)
+
 This Privacy Policy describes how the <strong><a href="https://chromewebstore.google.com/detail/review-image-alt-text/lgbpecaalejnpibeemnpellkiofhgpak" target="_blank">Review Image Alt Text</a></strong> Chrome extension collects, uses, and protects your information. We are committed to protecting your privacy and ensuring transparency in our data practices.
 
 ### Information Collection and Use
