@@ -1,5 +1,5 @@
 # Review Alt Text
-This tool is designed to help web developers, content creators, and accessibility testers quickly see the alternative text (alt text) for images on a webpage.
+This [Chrome extension](https://chromewebstore.google.com/detail/review-alt-text-v4build/lgbpecaalejnpibeemnpellkiofhgpak?) is designed to help web developers, content creators, and accessibility testers quickly see the alternative text (alt text) for images on a webpage.
 
 ## What It Does
 The primary goal of this extension is to make invisible alt text visible. When activated, it scans the current webpage and displays an overlay on top of every image and iFrame, showing the following information:
